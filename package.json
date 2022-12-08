@@ -1,0 +1,22 @@
+{
+  "name": "@rafter-dist/pc",
+  "version": "1.0.0",
+  "description": "飞椽云PC端通用组件库",
+  "main": "rafter-core.umd.js",
+  "module": "rafter-core.esm.js",
+  "unpkg": "rafter-core.min.js",
+  "jsdelivr": "index.js",
+  "scripts": {
+    "build": "pnpm "
+  },
+  "keywords": [
+    "UI",
+    "components"
+  ],
+  "author": "4.0Team",
+  "license": "ISC",
+  "peerDependencies": {
+    "vue": "^3.2.41"
+  },
+  "types": "index.d.ts"
+}
